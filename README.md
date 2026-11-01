@@ -1,4 +1,4 @@
-# BirdID
+<picture><source media="(prefers-color-scheme: dark)" srcset="docs/brand/banner-dark.svg"><img alt="BirdID — identify birds by photo or call" src="docs/brand/banner-light.svg" width="100%"></picture>
 
 **Identify a bird from a photo or a recording, hear it described in a field-guide
 voice, ask follow-up questions, and collect every bird you find into a deck.**
